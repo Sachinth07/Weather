@@ -31,7 +31,11 @@
     background: var(--bg_main);
     color: var(--text_dark);
     padding: 70px;
-    background-color: #679289;
+    background-color: #5a508f;
+    background-image: url('wolfgang-hasselmann-bR_-gllg7Bs-unsplash.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
   }
   .container {
     width: 100%;
@@ -41,7 +45,9 @@
   }
   .top-banner {
     color: black;
-    background-color: #ee2e31;
+    background-color: #1e66b21a;
+    box-shadow: inherit;
+    border-radius: 10px;
     padding: 50px;
   }
   .heading {
@@ -97,7 +103,7 @@
   
   .ajax-section .city {
     position: relative;
-    background-color: #1d7874;
+    background-color: #5e817f;
     padding: 40px 10%;
     border-radius: 20px;
   }
